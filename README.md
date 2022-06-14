@@ -12,5 +12,5 @@ Use the mockup image as a guide.
 * You shouldn't have to use _any_ CSS to make this page!
 * Refer to bootstrap documentation for more info.
 
- 
+  
 ![mockup-image](/image/mockup.png)
